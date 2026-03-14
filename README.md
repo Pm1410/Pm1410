@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Prateek 👋
 
-<!--
-**Pm1410/Pm1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring AI Developer interested in:
+• Machine Learning
+• Trading Systems
+• Reinforcement Learning
+• Automation
 
-Here are some ideas to get you started:
+Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sentronyx
+AI-powered debugging assistant.
+
+Neuronova
+Machine learning based crypto trading research framework.
+
+Tech Stack
+
+Python
+Machine Learning
+LightGBM
+FastAPI
+React
