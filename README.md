@@ -1,115 +1,116 @@
 <!-- ======================= HEADER ======================= -->
-<h1 align="center">Hi 👋, I'm Prateek Mukherjee</h1>
+<h1 align="center">⚡ Hi, I'm Prateek Mukherjee</h1>
 <h3 align="center">AGI Trading Systems Engineer | AI • RL • Scalable Systems</h3>
 
 <p align="center">
-  <a href="https://github.com/Pm1410"><img src="https://img.shields.io/github/followers/Pm1410?label=Followers&style=social" /></a>
-  <a href="https://github.com/Pm1410"><img src="https://img.shields.io/github/stars/Pm1410?affiliations=OWNER%2CCOLLABORATOR&style=social" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AGI+Trading+Systems;Reinforcement+Learning+Engineer;Evolutionary+AI+Explorer;Scalable+Backend+Architect" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pm1410&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
+<!-- ======================= ANIMATED BANNER ======================= -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
+
+---
+
 ## 🧠 The Developer Behind The Code  
 
-- 🚀 Building **AGI-powered trading systems**
-- 🤖 Focused on **Reinforcement Learning, Evolutionary AI**
-- ⚙️ Strong in **Backend Systems & Scalable Architecture**
-- 🧩 Turning complex ideas into **real-world working systems**
+- 🚀 Building **AGI-powered trading systems**  
+- 🤖 Focused on **Reinforcement Learning & Evolutionary AI**  
+- ⚙️ Backend-heavy developer with system design focus  
+- 🧩 Turning complex ideas into **real-world systems**  
 
 ---
 
-<!-- ======================= TECH STACK ======================= -->
 ## ⚡ Tech Arsenal  
 
-### 💻 Languages  
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,docker,git,github" />
 </p>
-
-### 🌐 Frontend  
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
-</p>
-
-### ⚙️ Backend & Systems  
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
-
-### 🐳 DevOps & Tools  
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github" />
-</p>
-
-### 🤖 AI / ML  
-- LightGBM  
-- Machine Learning Pipelines  
-- Feature Engineering  
-- Backtesting Systems  
-
-### 🧬 Advanced Focus  
-- Reinforcement Learning (PPO, Dreamer)  
-- Evolutionary Algorithms  
-- Autonomous Trading Agents  
 
 ---
 
-<!-- ======================= PROJECTS ======================= -->
-## 🚀 Projects That Speak For Me  
+## 🚀 Projects That Speak  
 
 ### 🔹 Neuronova — ML Trading Bot  
-- 📊 LightGBM-based intelligent trading system  
-- 🔬 Advanced feature engineering pipeline  
-- 📈 Backtesting & evaluation engine  
-- 🧠 Built for RL + evolutionary upgrades  
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400"/>
+</p>
+
+- 📊 LightGBM-based trading intelligence  
+- 📈 Backtesting + evaluation engine  
+- 🧠 Designed for RL + AGI evolution  
 
 ---
 
 ### 🔹 Sentronyx — Code Debugger  
-- 🛠️ Automated bug detection  
-- ⚡ Code optimization suggestions  
-- 🔍 Developer productivity tool  
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400"/>
+</p>
+
+- 🛠️ Automated debugging system  
+- ⚡ Smart optimization suggestions  
+- 🔍 Developer productivity booster  
 
 ---
 
-### 🔹 EduSphere ERP — School Management  
-- 🏫 Student, attendance, grading systems  
-- 🎨 Clean UI + structured navigation  
-- ⚙️ Modular backend  
+### 🔹 EduSphere ERP  
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+</p>
+
+- 🏫 School management system  
+- 🎯 Clean UI + modular backend  
+- ⚙️ Real-world deployment ready  
 
 ---
 
-<!-- ======================= STATS ======================= -->
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pm1410&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pm1410&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pm1410&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pm1410&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pm1410&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+
+## 🧬 Contribution Snake Animation  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pm1410&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<!-- ======================= ACHIEVEMENTS ======================= -->
-## 🏆 Achievements & Focus  
+## 🏆 Achievements  
 
-- 🚀 Built multiple production-ready systems  
-- 🧠 Strong foundation in AI + backend engineering  
-- ⚡ Focused on high-complexity problem solving  
-
----
-
-<!-- ======================= EDUCATION ======================= -->
-## 🎓 Education  
-- Pursuing strong foundation in **AI, Systems Design & Software Engineering**  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pm1410&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-<!-- ======================= CONNECT ======================= -->
+## 🎥 Featured Demo / Video Section  
+
+<p align="center">
+  <a href="https://your-demo-link.com">
+    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" width="400"/>
+  </a>
+</p>
+
+> Replace above with your project demo video (VERY powerful for recruiters)
+
+---
+
 ## 🤝 Let's Connect  
 
 <p align="center">
@@ -123,7 +124,14 @@
 
 ---
 
-<!-- ======================= FOOTER ======================= -->
+## ⚡ Vision  
+
 <p align="center">
-  ⚡ <b>Vision:</b> Building self-evolving intelligent systems that dominate dynamic environments
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&color=F700FF&center=true&vCenter=true&width=700&lines=Building+Self-Evolving+AGI+Systems;Autonomous+Trading+Intelligence;Future+of+AI+Driven+Finance" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ Building systems that learn, adapt, and dominate.
 </p>
