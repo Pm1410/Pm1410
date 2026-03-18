@@ -89,25 +89,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
----
-
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pm1410&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🎥 Featured Demo / Video Section  
-
-<p align="center">
-  <a href="https://your-demo-link.com">
-    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" width="400"/>
-  </a>
-</p>
-
-> Replace above with your project demo video (VERY powerful for recruiters)
 
 ---
 
